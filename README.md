@@ -1,2 +1,1 @@
- ProjetoSite
- Projeto Tecnico em Informática
+Projeto Tecnico em Informática
