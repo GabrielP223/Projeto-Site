@@ -1,2 +1,1 @@
-# ProjetoSiteOfc
- Projeto para meu Tecnico em Informática
+Projeto Tecnico em Informática
